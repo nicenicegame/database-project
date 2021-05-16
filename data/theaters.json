@@ -1,0 +1,782 @@
+[
+  {
+    "theaterNumber": 1,
+    "showingMovie": null,
+    "seats": [
+      {
+        "seatNumber": "1A",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "2A",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "3A",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "4A",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "5A",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "6A",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "1B",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "2B",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "3B",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "4B",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "5B",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "6B",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "1C",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "2C",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "3C",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "4C",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "5C",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "6C",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "1D",
+        "isAvailable": true,
+        "price": 180
+      },
+      {
+        "seatNumber": "2D",
+        "isAvailable": true,
+        "price": 180
+      },
+      {
+        "seatNumber": "3D",
+        "isAvailable": false,
+        "price": 180
+      },
+      {
+        "seatNumber": "4D",
+        "isAvailable": true,
+        "price": 180
+      },
+      {
+        "seatNumber": "5D",
+        "isAvailable": false,
+        "price": 180
+      },
+      {
+        "seatNumber": "6D",
+        "isAvailable": false,
+        "price": 180
+      },
+      {
+        "seatNumber": "1E",
+        "isAvailable": false,
+        "price": 250
+      },
+      {
+        "seatNumber": "2E",
+        "isAvailable": false,
+        "price": 250
+      },
+      {
+        "seatNumber": "3E",
+        "isAvailable": false,
+        "price": 250
+      },
+      {
+        "seatNumber": "4E",
+        "isAvailable": true,
+        "price": 250
+      },
+      {
+        "seatNumber": "5E",
+        "isAvailable": false,
+        "price": 250
+      },
+      {
+        "seatNumber": "6E",
+        "isAvailable": true,
+        "price": 250
+      }
+    ]
+  },
+  {
+    "theaterNumber": 2,
+    "showingMovie": null,
+    "seats": [
+      {
+        "seatNumber": "1A",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "2A",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "3A",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "4A",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "5A",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "6A",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "1B",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "2B",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "3B",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "4B",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "5B",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "6B",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "1C",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "2C",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "3C",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "4C",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "5C",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "6C",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "1D",
+        "isAvailable": false,
+        "price": 180
+      },
+      {
+        "seatNumber": "2D",
+        "isAvailable": true,
+        "price": 180
+      },
+      {
+        "seatNumber": "3D",
+        "isAvailable": true,
+        "price": 180
+      },
+      {
+        "seatNumber": "4D",
+        "isAvailable": true,
+        "price": 180
+      },
+      {
+        "seatNumber": "5D",
+        "isAvailable": false,
+        "price": 180
+      },
+      {
+        "seatNumber": "6D",
+        "isAvailable": true,
+        "price": 180
+      },
+      {
+        "seatNumber": "1E",
+        "isAvailable": true,
+        "price": 250
+      },
+      {
+        "seatNumber": "2E",
+        "isAvailable": true,
+        "price": 250
+      },
+      {
+        "seatNumber": "3E",
+        "isAvailable": false,
+        "price": 250
+      },
+      {
+        "seatNumber": "4E",
+        "isAvailable": true,
+        "price": 250
+      },
+      {
+        "seatNumber": "5E",
+        "isAvailable": true,
+        "price": 250
+      },
+      {
+        "seatNumber": "6E",
+        "isAvailable": true,
+        "price": 250
+      }
+    ]
+  },
+  {
+    "theaterNumber": 3,
+    "showingMovie": null,
+    "seats": [
+      {
+        "seatNumber": "1A",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "2A",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "3A",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "4A",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "5A",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "6A",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "1B",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "2B",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "3B",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "4B",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "5B",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "6B",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "1C",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "2C",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "3C",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "4C",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "5C",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "6C",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "1D",
+        "isAvailable": false,
+        "price": 180
+      },
+      {
+        "seatNumber": "2D",
+        "isAvailable": false,
+        "price": 180
+      },
+      {
+        "seatNumber": "3D",
+        "isAvailable": true,
+        "price": 180
+      },
+      {
+        "seatNumber": "4D",
+        "isAvailable": true,
+        "price": 180
+      },
+      {
+        "seatNumber": "5D",
+        "isAvailable": true,
+        "price": 180
+      },
+      {
+        "seatNumber": "6D",
+        "isAvailable": true,
+        "price": 180
+      },
+      {
+        "seatNumber": "1E",
+        "isAvailable": true,
+        "price": 250
+      },
+      {
+        "seatNumber": "2E",
+        "isAvailable": true,
+        "price": 250
+      },
+      {
+        "seatNumber": "3E",
+        "isAvailable": true,
+        "price": 250
+      },
+      {
+        "seatNumber": "4E",
+        "isAvailable": true,
+        "price": 250
+      },
+      {
+        "seatNumber": "5E",
+        "isAvailable": true,
+        "price": 250
+      },
+      {
+        "seatNumber": "6E",
+        "isAvailable": false,
+        "price": 250
+      }
+    ]
+  },
+  {
+    "theaterNumber": 4,
+    "showingMovie": null,
+    "seats": [
+      {
+        "seatNumber": "1A",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "2A",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "3A",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "4A",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "5A",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "6A",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "1B",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "2B",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "3B",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "4B",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "5B",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "6B",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "1C",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "2C",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "3C",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "4C",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "5C",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "6C",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "1D",
+        "isAvailable": false,
+        "price": 180
+      },
+      {
+        "seatNumber": "2D",
+        "isAvailable": false,
+        "price": 180
+      },
+      {
+        "seatNumber": "3D",
+        "isAvailable": true,
+        "price": 180
+      },
+      {
+        "seatNumber": "4D",
+        "isAvailable": false,
+        "price": 180
+      },
+      {
+        "seatNumber": "5D",
+        "isAvailable": true,
+        "price": 180
+      },
+      {
+        "seatNumber": "6D",
+        "isAvailable": true,
+        "price": 180
+      },
+      {
+        "seatNumber": "1E",
+        "isAvailable": true,
+        "price": 250
+      },
+      {
+        "seatNumber": "2E",
+        "isAvailable": false,
+        "price": 250
+      },
+      {
+        "seatNumber": "3E",
+        "isAvailable": false,
+        "price": 250
+      },
+      {
+        "seatNumber": "4E",
+        "isAvailable": false,
+        "price": 250
+      },
+      {
+        "seatNumber": "5E",
+        "isAvailable": true,
+        "price": 250
+      },
+      {
+        "seatNumber": "6E",
+        "isAvailable": true,
+        "price": 250
+      }
+    ]
+  },
+  {
+    "theaterNumber": 5,
+    "showingMovie": null,
+    "seats": [
+      {
+        "seatNumber": "1A",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "2A",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "3A",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "4A",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "5A",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "6A",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "1B",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "2B",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "3B",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "4B",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "5B",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "6B",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "1C",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "2C",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "3C",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "4C",
+        "isAvailable": false,
+        "price": 120
+      },
+      {
+        "seatNumber": "5C",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "6C",
+        "isAvailable": true,
+        "price": 120
+      },
+      {
+        "seatNumber": "1D",
+        "isAvailable": false,
+        "price": 180
+      },
+      {
+        "seatNumber": "2D",
+        "isAvailable": false,
+        "price": 180
+      },
+      {
+        "seatNumber": "3D",
+        "isAvailable": true,
+        "price": 180
+      },
+      {
+        "seatNumber": "4D",
+        "isAvailable": false,
+        "price": 180
+      },
+      {
+        "seatNumber": "5D",
+        "isAvailable": false,
+        "price": 180
+      },
+      {
+        "seatNumber": "6D",
+        "isAvailable": true,
+        "price": 180
+      },
+      {
+        "seatNumber": "1E",
+        "isAvailable": true,
+        "price": 250
+      },
+      {
+        "seatNumber": "2E",
+        "isAvailable": false,
+        "price": 250
+      },
+      {
+        "seatNumber": "3E",
+        "isAvailable": true,
+        "price": 250
+      },
+      {
+        "seatNumber": "4E",
+        "isAvailable": true,
+        "price": 250
+      },
+      {
+        "seatNumber": "5E",
+        "isAvailable": false,
+        "price": 250
+      },
+      {
+        "seatNumber": "6E",
+        "isAvailable": false,
+        "price": 250
+      }
+    ]
+  }
+]
