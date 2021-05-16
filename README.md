@@ -9,7 +9,7 @@ npm install
 
 ## How to import backup.json to Cloud Firestore
 
-1. Create to your firebase project.
+1. Create your firebase project.
 2. Create an firebase app.
 3. Go to `Project settings` > `Service accounts`
 4. On the Firebase Admin SDK tab, Click `Generate new private key`
